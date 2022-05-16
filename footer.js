@@ -35,7 +35,7 @@ $(document).ready( function() {
                 <div><span>Навигация по сайту</span></div>
                 <div><span><a href="/sections/catalog.html">Каталог десертов</a></span></div>
                 <div><span><a href="/sections/decoration.html">Оформление тортов</a></span></div>
-                <div><span><a href="/pages/delivery.html">Доставка и самовывоз</a></span></div>
+                <div><span><a href="/pages/delivery.html">Доставка и самовыывоз</a></span></div>
                 <div><span><a href="/pages/aboutus.html">О нас</a></span></div>
                 <div><span><a href="/pages/reviews.html">Отзывы</a></span></div>
             </div>
