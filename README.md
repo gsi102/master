@@ -1,4 +1,4 @@
-# Main
+# Master
 
 A small project for a local bakery where I practiced in Frontend Development. 
 
